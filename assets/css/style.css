@@ -1,6 +1,6 @@
 
 .logo{
-	color:#616A6B;
+	color:#212F3D;
 	text-align:center;
 	font-size:50px;
 	border:4px solid #17202A;
@@ -20,6 +20,7 @@ body{
 
 }
 table{
+	background-color:#E5E8E8;
 	text-align: left;
 	font-size: 25px;
 }
@@ -35,7 +36,7 @@ input{
 	width: 160px;
 }
 #result,#curr{
-	color:green;
+	color:#1C2833;
 	font-size:37px;
 }
 #curr{
